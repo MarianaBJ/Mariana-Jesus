@@ -18,6 +18,11 @@
 ### Link Surge 
 dapper-man.surge.sh
 
+### Tecnologias utilizadas:
+- React.JS, 
+- styled-components, 
+- ChakraUI.
+
 ### Imagens
 ![image](https://user-images.githubusercontent.com/80788293/147135952-f7be313a-b372-40d3-8df0-bea7c1dd25d4.png)
 ![image](https://user-images.githubusercontent.com/80788293/147136006-1edbf2bc-c1ce-43ad-9feb-df2a77ee2889.png)
